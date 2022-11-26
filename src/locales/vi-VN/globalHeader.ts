@@ -1,0 +1,17 @@
+export default {
+  'component.globalHeader.search': 'Tìm kiếm',
+  'component.globalHeader.search.example1': 'Ví dụ 1',
+  'component.globalHeader.search.example2': 'Ví dụ 2',
+  'component.globalHeader.search.example3': 'Ví dụ 3',
+  'component.globalHeader.help': 'Trợ giúp',
+  'component.globalHeader.notification': 'Thông báo',
+  'component.globalHeader.notification.empty': 'Bạn đã xem tất cả các thông báo.',
+  'component.globalHeader.message': 'Thông điệp',
+  'component.globalHeader.message.empty': 'Bạn đã xem tất cả tin nhắn.',
+  'component.globalHeader.event': 'Sự kiện',
+  'component.globalHeader.event.empty': 'Bạn đã xem hết sự kiện.',
+  'component.noticeIcon.clear': 'Làm mới',
+  'component.noticeIcon.cleared': 'Đã làm mới',
+  'component.noticeIcon.empty': 'Không có thông báo',
+  'component.noticeIcon.view-more': 'Xem thêm',
+};
